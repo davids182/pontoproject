@@ -1,5 +1,5 @@
-# diolive
+# SantandeFullStack
 
-Api rest para gerenciamento de ponto e controle de acesso.
+Api rest para gerenciamento e controle de ponto.
 
-Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
+
